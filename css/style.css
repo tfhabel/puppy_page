@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+img {
+  max-width: 100%;
+}
+
+/* header style starts here */
+header {
+  background-color: #195774;
+  padding: 30px 0 35px;
+}
+
+#header h1 {
+  color: #fcfeff;
+  text-align: center;
+  font-size: 50px;
+}
+/* header style ends here */
+
+/* banner style starts here */
+.banner_cont {
+  margin-bottom: 20px;
+}
+
+.banner img {
+  width: 100%;
+}
+/* banner style ends here */
+
+/* three puppy style starts here */
+.three_puppy_cont {
+  padding: 20px 0;
+  width: 960px;
+
+  margin: 0 auto;
+}
+
+.three_puppy {
+  display: flex;
+  justify-content: space-between;
+}
+
+.puppy_missing {
+  width: 310px;
+  background-color: #ee4d65;
+}
+
+.puppy_missing p {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bolder;
+  padding: 80px 35px 60px 35px;
+}
+
+/* three puppy style ends here */
+
+/* more puppy text style starts here */
+.more_pup_text_wrapper {
+  margin: 0 auto;
+  width: 960px;
+}
+
+.more_puppy_text {
+  padding: 40px 0 50px;
+}
+.more_puppy_text h3 {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bolder;
+}
+/* more puppy text style ends here */
+
+/* two puppy section style starts here */
+.two_puppy_cont {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.two_puppy {
+  display: flex;
+  justify-content: space-between;
+}
+/* two puppy section style ends here */
+
+/* footer style starts here */
+footer {
+  width: 100%;
+  background-color: #195774;
+  padding: 50px 0;
+  margin-top: 30px;
+}
+
+.footer_cont h2 {
+text-align: center;
+color: #FCFEFE;
+font-size: 50px;
+}
+/* footer style ends here */
