@@ -54,7 +54,6 @@ header {
   font-weight: bolder;
   padding: 80px 35px 60px 35px;
 }
-
 /* three puppy style ends here */
 
 /* more puppy text style starts here */
@@ -94,8 +93,8 @@ footer {
 }
 
 .footer_cont h2 {
-text-align: center;
-color: #FCFEFE;
-font-size: 50px;
+  text-align: center;
+  color: #fcfefe;
+  font-size: 50px;
 }
 /* footer style ends here */
