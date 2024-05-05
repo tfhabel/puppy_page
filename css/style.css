@@ -7,6 +7,10 @@ img {
   max-width: 100%;
 }
 
+body {
+  min-width: 960px;
+}
+
 /* header style starts here */
 header {
   background-color: #195774;
